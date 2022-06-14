@@ -1,0 +1,21 @@
+.nav--container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(77, 102, 117);
+    color: white;
+    padding-left: 30%;
+    /* border-bottom: 2px solid white; */
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+.contact {
+    padding: 5px;
+}
+
+.about--us{
+    padding: 5px;
+}
